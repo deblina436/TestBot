@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/0cb7729f-7a06-4aa5-b827-8fd9c81c7b09/resourceGroups/987test_group/providers/Microsoft.Web/sites/987test",
+    "appService.deploySubpath": "bots"
+}
